@@ -54,6 +54,23 @@ This project is built step-by-step, starting with:
    http://localhost:8080
   ```
 
+> 💡 If you want to run the app with backend/database features (starting from Day 4), you’ll also need SQLite installed.
+
+### Install SQLite
+
+**macOS:**
+```bash
+brew install sqlite
+
+Ubuntu/Debian:
+```bash
+sudo apt install sqlite3
+```
+Windows:
+   ```bash
+Download from https://www.sqlite.org/download.html
+  ```
+
 ## 🧪 Development
 	•	HTML file: index.html
 	•	Main CSS: styles/main.css
