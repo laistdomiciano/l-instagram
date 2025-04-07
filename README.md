@@ -1,2 +1,2 @@
 # l-istagram
-Super cool but simplified Instagram clone
+Super cool but simplified Instagram clone by Lais
